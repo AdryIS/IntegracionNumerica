@@ -1,1 +1,3 @@
 # IntegracionNumerica
+
+La integración numérica constituye una amplia gama de algoritmos para calcular el valor numérico de una integral definida y, por extensión, el término se usa a veces para describir algoritmos numéricos para resolver ecuaciones diferenciales.El problema básico considerado por la integración numérica es calcular una solución aproximada a la integral definida. La regla se basa en aproximar el valor de la integral de f(x) por el de la función lineal que pasa a través de los puntos (a, f(a)) y (b,f(b)). La integral de ésta es igual al área del trapecio bajo la gráfica de la función lineal.
